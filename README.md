@@ -8,13 +8,13 @@ Here are some highlighted samples from our text-conditional model. For random sa
     <tbody>
         <tr>
             <td align="center">
-                <img src="samples/A mop with a triangle shaped roller with spray/2.gif" alt="a mop with a triangle shaped roller with spray">
+                <img src="samples/A mop triangle shaped roller with spray/2.gif" alt="a mop triangle shaped roller with spray">
             </td>
             <td align="center">
-                <img src="samples//3.gif" alt="A mop with a triangle shaped roller with spray">
+                <img src="samples//3.gif" alt="A mop triangle shaped roller with spray">
             </td align="center">
             <td align="center">
-                <img src="samples/a_spaceship/0.gif" alt="A spaceship">
+                <img src="samples/A mop triangle shaped roller with spray/0.gif" alt="a mop triangle shaped roller with spray">
             </td>
         </tr>
         <tr>
